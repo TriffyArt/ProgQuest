@@ -6,3 +6,10 @@ res://scenes/characters/player/idle_state.gd
 res://scenes/test/test_scene_player.tscn
 res://scenes/characters/player/tilling_state.gd
 res://scenes/characters/player/watering_state.gd
+res://scenes/houses/large_house.tscn
+res://Tilesets/house_tile_set.tres
+res://scenes/test/test_scene_house_tilemapr.tscn
+res://scenes/houses/door.tscn
+res://scenes/components/interactable_component.tscn
+res://scenes/components/interactable_component.gd
+res://scenes/houses/door.gd
