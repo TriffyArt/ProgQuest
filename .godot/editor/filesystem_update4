@@ -4,3 +4,5 @@ res://scenes/characters/player/chopping_state.gd
 res://scripts/game_input_events.gd
 res://scenes/characters/player/idle_state.gd
 res://scenes/test/test_scene_player.tscn
+res://scenes/characters/player/tilling_state.gd
+res://scenes/characters/player/watering_state.gd
